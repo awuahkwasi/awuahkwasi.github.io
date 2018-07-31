@@ -10,3 +10,5 @@ The video below is a visualisation of organisations and the sum of amounts they 
 3. The size of the bubble shows the magnitude of the sum of the donation made by an organisation within a year. 
 
 Thus the data labels shows the funding organisation's name and the colour code determines the theme.
+
+[Click to view the video](https://www.youtube.com/embed/CDb7HSE2cpE)
